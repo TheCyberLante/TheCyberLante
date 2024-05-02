@@ -1,9 +1,8 @@
-# Hello there, I am Daniel Eluwah
+# Hello, I am Daniel
 I am a motivated and detail-oriented individual determined in carving a niche in cybersecurity focused on Governance, Risk and Compliance (GRC) and Information Security Management (ISM) through continuous learning and industry recognised certifications.
 
 ---
 ## Objective
-
 I aspire to become an expert who can take strategic decisions to protect critical assets and ensure compliance with regulations that keep organisations ahead of cyber threats, build strong cybersecurity postures and maintain their competitive edge. With a solid foundation in cybersecurity principles, coupled with hands-on experience and relevant certifications, I am eager to contribute to securing digital assets and mitigating cyber threats.
 
 ---
@@ -11,11 +10,10 @@ I aspire to become an expert who can take strategic decisions to protect critica
 - **Master of Science in Information Technology with Cyber Security**
   - Robert Gordon University, Aberdeen, UK, August 2023
   - *Relevant Modules: Information Security, Software Project Engineering, Security Operations*
-  - *Project: 
-
+  
 - **Post-graduate Diploma in Information Technology**
   - National Open Uninversity Nigeria, March 2022
-  - *Project: Cyber Awareness and Education in Nigeria - An Assessment*
+  - *Relevant Modules: Computer Networks, Information Technology and Software, Information Systems Design*
 
 ---
 ## Certifications
@@ -28,10 +26,10 @@ I aspire to become an expert who can take strategic decisions to protect critica
 | Skill                                         | Level     | Associated Project  |
 |-----------------------------------------------|-----------|---------------------|
 | SIEM and Log Analysis                         | Beginner  | Security Operations Module Coursework|
-| Network Traffic Monitoring and Attack Detection | Beginner| Security Operations Module Coursework|
+| Network Traffic Monitoring                    | Beginner  | Security Operations Module Coursework|
 | Incident Response                             | Beginner  | Security Operations Module Coursework|
-| Network Devices Security                      | Beginner  | Security Operations Module Coursework|
-| Scripting and Automation for Threat Mitigation | Beginner | None yet|
+| Network Security                              | Beginner  | Security Operations Module Coursework|
+| Scripting and Automation for Threat Mitigation| Beginner  | None yet|
 
 ---
 ## Projects
@@ -43,9 +41,10 @@ I aspire to become an expert who can take strategic decisions to protect critica
 ---
 ## Tools and Technologies
 - Firewalls (Cisco ASA, pfSense)
+### SIEM
 - SIEM (Splunk)
-- Network monitoring tools (Wireshark) <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-[![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark)](https://www.wireshark.org/)
+### Network
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 
 ---
 ## Professional Development
