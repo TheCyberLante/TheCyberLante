@@ -1,5 +1,5 @@
 # Hello there, I am Daniel Eluwah
-## Entry-Level Cybersecurity Analyst
+<a href="https://linkedin.com/in/daniel-nwachukwu-eluwah-110b8737"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
 
 **Contact Information:** [Insert Contact Information]
 
