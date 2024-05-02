@@ -39,7 +39,8 @@ I aspire to become an expert who can take strategic decisions to protect critica
 
 ---
 ## Tools and Technologies
-<img src="https://img.shields.io/badge/Wireshark-005571?style=flat-square&logo=wireshark&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Packet_Tracer-005571?style=flat-square&logo=cisco&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Sguil-NSM_Interface-005571?style=flat-square&logo=sguil&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Security_Onion-NSM_Tool-005571?style=flat-square&logo=securityonion&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Kibana-Data_Visualization-005571?style=flat-square&logo=kibana&logoColor=white&labelColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-005571?style=flat-square&logo=wireshark&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Packet_Tracer-005571?style=flat-square&logo=cisco&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Sguil-NSM_Interface-005571?style=flat-square&logo=sguil&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Security_Onion-NSM_Tool-005571?style=flat-square&logo=securityonion&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Kibana-Data_Visualization-005571?style=flat-square&logo=kibana&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/VirusTotal-Online_Scanning-005571?style=flat-square&logo=virustotal&logoColor=white&labelColor=black"/>
+
 
 ---
 ## Professional Affiliations
