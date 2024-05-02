@@ -1,4 +1,4 @@
-# Daniel Eluwah
+# Hello there, I am Daniel Eluwah
 ## Entry-Level Cybersecurity Analyst
 
 **Contact Information:** [Insert Contact Information]
