@@ -9,38 +9,30 @@ I aspire to become an expert who can make strategic decisions to protect critica
 ---
 ## Education
 - **Master of Science in Information Technology with Cyber Security**
-  - *Robert Gordon University, Aberdeen, UK*, Graduated August 2023
-  - Relevant coursework: Information Security, Software Project Engineering
+  - Robert Gordon University, Aberdeen, UK, August 2023
+  - *Relevant Modules: Information Security, Software Project Engineering, Security Operations*
+  - *Project: 
+
+- **Post-graduate Diploma in Information Technology**
+  - National Open Uninversity Nigeria, March 2022
+  - *Project: Cyber Awareness and Education in Nigeria - An Assessment*
 
 ---
 ## Certifications
-<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-CC-green?style=flat-square&logo=ISC%C2%B2" /></a>
-[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-red?style=flat-square&logo=google)](https://www.coursera.org/professional-certificates/google-it-support)
-
-
+<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-Certified in Cybersecurity (CC)-green?style=flat-square&logo=ISC%C2%B2&logoColor=white&labelColor=4285F4" /></a><br>
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/_-Google_Cybersecurity_Professional_Certificate-red?style=flat-square&logo=google&logoColor=white&labelColor=4285F4)
 
 ---
-
 ## Skills
-- Network security (Intermediate)
-- Vulnerability assessment and penetration testing (Beginner)
-- Security incident response (Intermediate)
-- Firewall configuration and management (Intermediate)
-- SIEM tools (Intermediate)
-- Python scripting for cybersecurity (Beginner)
+  
+| Skill                                         | Level        | Associated Project  |
+|-----------------------------------------------|----------------------------|-------|
+| SIEM and Log Analysis          | Beginner| Security Operations Module Coursework|
+| Network Traffic Monitoring and Attack Detection | Beginner| Security Operations Module Coursework|
+| Incident Response    | Beginner| Security Operations Module Coursework|
+| Network Devices Security | Beginner| Security Operations Module Coursework|
 
 ---
-
-## Experience
-**Technology Consulting, KPMG**
-*(October 2023 - till date)*
-- Assisted in vulnerability assessments and penetration testing of internal systems.
-- Monitored security alerts and assisted in incident response activities.
-- Participated in firewall rule reviews and configuration updates.
-- Conducted research on emerging cybersecurity threats and presented findings to the team.
-
----
-
 ## Projects
 - **Network Security Enhancement Project**
   - Implemented firewall rule optimizations and network segmentation to improve overall security posture.
@@ -52,29 +44,20 @@ I aspire to become an expert who can make strategic decisions to protect critica
 ## Tools and Technologies
 - Firewalls (Cisco ASA, pfSense)
 - SIEM (Splunk)
-- Penetration testing tools (Nmap, Metasploit)
-- Network monitoring tools (Wireshark)
+- Network monitoring tools (Wireshark) <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+[![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark)](https://www.wireshark.org/)
+
 
 ---
-
 ## Professional Development
 - Attended workshops on cybersecurity best practices and threat intelligence analysis.
 - Completed online courses on ethical hacking and incident response.
 
 ---
-
-## Personal Projects or Contributions
-- Contributed to an open-source project focused on developing cybersecurity tools for network traffic analysis.
-
----
-
 ## Professional Affiliations
-- Student Member, International Information System Security Certification Consortium (ISC²)
+- International Information System Security Certification Consortium (ISC²)
+- Cyber Security Experts Association of Nigeria (CSEAN)
 
 ---
-
-## References
-Available upon request.
-
-**Contact Information:** [Insert Contact Information]
+## Contact Information
 <a href="https://linkedin.com/in/daniel-nwachukwu-eluwah-110b8737"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
