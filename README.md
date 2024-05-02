@@ -1,13 +1,12 @@
 # Hello there, I am Daniel Eluwah
 <a href="https://linkedin.com/in/daniel-nwachukwu-eluwah-110b8737"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
-
+I am a motivated and detail-oriented individual determined in carving a niche in cybersecurity focused on GRC and ISMS through continuous learning and industry certifications.
 **Contact Information:** [Insert Contact Information]
 
 ---
 
 ## Introduction/Summary
-I am a motivated and detail-oriented individual aspiring to build a career in cybersecurity. With a solid foundation in cybersecurity principles, coupled with hands-on experience and relevant certifications, I am eager to contribute to securing digital assets and mitigating cyber threats.
-
+- I aspire to become an expert who can make strategic decisions to protect critical assets and ensure compliance with regulations that keep organisations ahead of cyber threats, build strong cybersecurity postures and maintain their competitive edge. aspiring to build a career in cybersecurity. With a solid foundation in cybersecurity principles, coupled with hands-on experience and relevant certifications, I am eager to contribute to securing digital assets and mitigating cyber threats.
 ---
 
 ## Education
