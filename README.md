@@ -32,10 +32,10 @@ I aspire to become an expert who can take strategic decisions to protect critica
 
 ---
 ## Projects
-- **Network Security Enhancement Project**
-  - Implemented firewall rule optimizations and network segmentation to improve overall security posture.
-- **Penetration Testing Lab**
-  - Set up a virtual lab environment to conduct penetration testing exercises and identify vulnerabilities in simulated networks.
+- **Security Incident Analysis and Response**
+  - Analysis network traffic to gather to determine the type and nature of the security incident including chain of events and impact on the network.
+- **Security Assessment of Network Design**
+  - Identify possible areas of vulnerabilities in network security controls and evaluate the security posture. 
 
 ---
 ## Tools and Technologies
