@@ -17,8 +17,8 @@ I aspire to become an expert who can take strategic decisions to protect critica
 
 ---
 ## Certifications
-<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-Certified in Cybersecurity (CC)-006400?style=flat-square&logo=ISC%C2%B2&logoColor=white&labelColor=4285F4" /></a><br>
-![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/_-Google_Cybersecurity_Professional_Certificate-FF0000?style=flat-square&logo=google&logoColor=white&labelColor=4285F4)
+<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-Certified in Cybersecurity (CC)-489838?style=flat-square&logo=ISC%C2%B2&logoColor=white&labelColor=black"/></a>
+<img src="https://img.shields.io/badge/_-Google_Cybersecurity_Professional_Certificate-489838?style=flat-square&logo=google&logoColor=white&labelColor=black"/>
 
 ---
 ## Skills
@@ -26,9 +26,8 @@ I aspire to become an expert who can take strategic decisions to protect critica
 | Skill                                         | Level     | Associated Project  |
 |-----------------------------------------------|-----------|---------------------|
 | SIEM and Log Analysis                         | Beginner  | Security Operations Module Coursework|
-| Network Traffic Monitoring                    | Beginner  | Security Operations Module Coursework|
+| Network Traffic and Security Monitoring       | Beginner  | Security Operations Module Coursework|
 | Incident Response                             | Beginner  | Security Operations Module Coursework|
-| Network Security                              | Beginner  | Security Operations Module Coursework|
 | Scripting and Automation for Threat Mitigation| Beginner  | None yet|
 
 ---
@@ -40,16 +39,7 @@ I aspire to become an expert who can take strategic decisions to protect critica
 
 ---
 ## Tools and Technologies
-- Firewalls (Cisco ASA, pfSense)
-### SIEM
-- SIEM (Splunk)
-### Network
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-
----
-## Professional Development
-- Attended workshops on cybersecurity best practices and threat intelligence analysis.
-- Completed online courses on ethical hacking and incident response.
+<img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Packet_Tracer-blue?style=flat-square&logo=cisco&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Sguil-NSM_Interface-blue?style=flat-square&logo=sguil&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Security_Onion-NSM_Tool-blue?style=flat-square&logo=securityonion&logoColor=white&labelColor=black"/> <img src="https://img.shields.io/badge/Kibana-Data_Visualization-blue?style=flat-square&logo=kibana&logoColor=white&labelColor=black"/>
 
 ---
 ## Professional Affiliations
@@ -58,4 +48,4 @@ I aspire to become an expert who can take strategic decisions to protect critica
 
 ---
 ## Contact Information
-<a href="https://linkedin.com/in/daniel-nwachukwu-eluwah-110b8737"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+<a href="https://linkedin.com/in/daniel-nwachukwu-eluwah-110b8737"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=black" /></a>
