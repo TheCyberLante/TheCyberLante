@@ -4,7 +4,7 @@ I am a motivated and detail-oriented individual determined in carving a niche in
 ---
 ## Objective
 
-I aspire to become an expert who can make strategic decisions to protect critical assets and ensure compliance with regulations that keep organisations ahead of cyber threats, build strong cybersecurity postures and maintain their competitive edge. aspiring to build a career in cybersecurity. With a solid foundation in cybersecurity principles, coupled with hands-on experience and relevant certifications, I am eager to contribute to securing digital assets and mitigating cyber threats.
+I aspire to become an expert who can take strategic decisions to protect critical assets and ensure compliance with regulations that keep organisations ahead of cyber threats, build strong cybersecurity postures and maintain their competitive edge. With a solid foundation in cybersecurity principles, coupled with hands-on experience and relevant certifications, I am eager to contribute to securing digital assets and mitigating cyber threats.
 
 ---
 ## Education
@@ -19,18 +19,19 @@ I aspire to become an expert who can make strategic decisions to protect critica
 
 ---
 ## Certifications
-<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-Certified in Cybersecurity (CC)-green?style=flat-square&logo=ISC%C2%B2&logoColor=white&labelColor=4285F4" /></a><br>
-![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/_-Google_Cybersecurity_Professional_Certificate-red?style=flat-square&logo=google&logoColor=white&labelColor=4285F4)
+<a href="https://credly.com/badges/f342dbac-7847-4a95-86e8-f70e7e5095fb/linked_in_profile"><img src="https://img.shields.io/badge/ISC%C2%B2_-Certified in Cybersecurity (CC)-006400?style=flat-square&logo=ISC%C2%B2&logoColor=white&labelColor=4285F4" /></a><br>
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/_-Google_Cybersecurity_Professional_Certificate-FF0000?style=flat-square&logo=google&logoColor=white&labelColor=4285F4)
 
 ---
 ## Skills
   
-| Skill                                         | Level        | Associated Project  |
-|-----------------------------------------------|----------------------------|-------|
-| SIEM and Log Analysis          | Beginner| Security Operations Module Coursework|
+| Skill                                         | Level     | Associated Project  |
+|-----------------------------------------------|-----------|---------------------|
+| SIEM and Log Analysis                         | Beginner  | Security Operations Module Coursework|
 | Network Traffic Monitoring and Attack Detection | Beginner| Security Operations Module Coursework|
-| Incident Response    | Beginner| Security Operations Module Coursework|
-| Network Devices Security | Beginner| Security Operations Module Coursework|
+| Incident Response                             | Beginner  | Security Operations Module Coursework|
+| Network Devices Security                      | Beginner  | Security Operations Module Coursework|
+| Scripting and Automation for Threat Mitigation | Beginner | None yet|
 
 ---
 ## Projects
@@ -40,13 +41,11 @@ I aspire to become an expert who can make strategic decisions to protect critica
   - Set up a virtual lab environment to conduct penetration testing exercises and identify vulnerabilities in simulated networks.
 
 ---
-
 ## Tools and Technologies
 - Firewalls (Cisco ASA, pfSense)
 - SIEM (Splunk)
 - Network monitoring tools (Wireshark) <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 [![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark)](https://www.wireshark.org/)
-
 
 ---
 ## Professional Development
